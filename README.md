@@ -19,8 +19,7 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 
 
 
-
-…or create a new repository on the command line
+gicreate a new repository on the command line
 echo "# leetcode-solutions" >> README.md
     git init
     git add README.md
