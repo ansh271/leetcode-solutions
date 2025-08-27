@@ -10,7 +10,7 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 
 ## 📂 Solved Problems
 ### Arrays
-- [Two Sum](arrays/TwoSum.java)
+- [Two Sum](arrays/twosum.java)
 - [Maximum Subarray](arrays/MaxSubarray.java)
 
 ### Strings
