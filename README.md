@@ -3,18 +3,16 @@
 This repo contains my Java solutions for DSA problems while preparing for Amazon SDE-1.
 
 ## 📊 Progress Tracker
-- ✅ Arrays: 10 problems
-- ✅ Strings: 7 problems
-- ✅ Linked List: 4 problems
+- ✅ Arrays: 2 problems
+- ✅ Strings: 0 problems
+- ✅ Linked List: 0 problems
 - 🔄 Dynamic Programming: in progress
 
 ## 📂 Solved Problems
 ### Arrays
 - [Two Sum](arrays/twosum.java)
-- [Maximum Subarray](arrays/MaxSubarray.java)
+-[Longest Common Prefix](arrays/LongestCommonPrefix.java)
 
-### Strings
-- [Longest Substring Without Repeating Characters](strings/LongestSubstring.java)
 
 
 
