@@ -10,9 +10,8 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 
 ## 📂 Solved Problems
 ### Arrays
-- [Two Sum](arrays/twosum.java)
-- [Longest Common Prefix](arrays/LongestCommonPrefix.java)
-- [Maximum Subarray](arrays/MaxSubarray.java)
+- [Problem 01 - Two Sum](arrays/twosum.java)
+- [Problem 14 - Longest Common Prefix](arrays/LongestCommonPrefix.java)
 
 
 
