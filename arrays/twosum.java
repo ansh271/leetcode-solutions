@@ -1,3 +1,9 @@
+/*gt
+ Problem: https://leetcode.com/problems/two-sum/
+ Approach: HashMap (O(n))
+ Date: 26-08-2025
+*/
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] arr = new int[2];
