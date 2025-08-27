@@ -7,7 +7,7 @@
 */
 
 
-class Solution {
+class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         // case 1
         if(strs.length==0)
