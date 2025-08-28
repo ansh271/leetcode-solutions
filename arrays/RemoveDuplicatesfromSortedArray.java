@@ -1,3 +1,11 @@
+/*
+ Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ Approach: Use LinkedHashSet to maintain order while removing duplicates (O(n) time, O(n) space)
+ Date: 26-08-2025
+*/
+
+
+
 import java.util.LinkedHashSet;
 import java.util.Set;
 
