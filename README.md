@@ -13,6 +13,10 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 - [Problem 01 - Two Sum](arrays/twosum.java)
 - [Problem 14 - Longest Common Prefix](arrays/LongestCommonPrefix.java)
 - [Problem 26 - Remove Duplicates from Sorted Array](arrays/RemoveDuplicatesfromSortedArray.java)
+- [Problem 27 - Remove Element](arrays/RemoveElement.java)
+- [Problem 35 - Search Insert Position](arrays/SearchInsertPosition.java)
+- [Problem 66 - Plus one](arrays/PlusOne.java)
+
 
 
 
