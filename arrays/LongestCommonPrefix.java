@@ -3,7 +3,7 @@
  Approach: one-pointer approach.
  Time: O(N * M) (N = number of strings, M = length of shortest string)
  Space: O(1)
- Date: 27-08-2025
+ Date: 28-08-2025
 */
 
 
