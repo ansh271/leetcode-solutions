@@ -21,6 +21,8 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 - [Problem 121 - Best Time To Buy and Sell Stock](arrays/BestTimeToBuyandSellStock.java)
 - [Problem 136 - Single Number](arrays/SingleNumber.java)
 - [Problem 231 - Power of Two](arrays/PowerOfTwo.java;)
+- [Problem 1304 - Find N Unique Integers Sum up to Zero](arrays/1304.java;)
+
 
 
 
