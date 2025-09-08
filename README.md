@@ -22,6 +22,7 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 - [Problem 136 - Single Number](arrays/SingleNumber.java)
 - [Problem 231 - Power of Two](arrays/PowerOfTwo.java;)
 - [Problem 1304 - Find N Unique Integers Sum up to Zero](arrays/1304.java;)
+- [Problem 1317 - Convert Integer to the Sum of Two No-Zero Integers](arrays/1317.java;)
 
 
 
