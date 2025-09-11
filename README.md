@@ -24,6 +24,7 @@ This repo contains my Java solutions for DSA problems while preparing for Amazon
 - [Problem 1304 - Find N Unique Integers Sum up to Zero](arrays/1304.java;)
 - [Problem 1317 - Convert Integer to the Sum of Two No-Zero Integers](arrays/1317.java;)
 - [Problem 2327 - CNumber of People Aware of a Secret](arrays/2327.java;)
+- [Problem 2785 - Sort Vowels in a String](arrays/2785.java;)
 
 
 
